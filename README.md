@@ -6,3 +6,11 @@ W projekcie użyte zostały:
 - Entity Framework
 - LINQ
 - async/await
+
+
+The newest project in .NET. This is an application that, after logging in, allows you to browse the list of books, add selected ones to your account, indicate that stage of reading the user is at, and comment on selected items.
+The project used:
+- ASP.NET
+- Entity Framework
+- LINQ
+- async/await
